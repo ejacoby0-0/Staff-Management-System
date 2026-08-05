@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rayma\\Desktop\\Staff-Management-System\\Staff-Management-System\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3A85EA-5571-71FA-E557-19FBD2255707}|Staff-Management-System\\Staff-Management-System.csproj|c:\\users\\rayma\\desktop\\staff-management-system\\staff-management-system\\staff-management-system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3A85EA-5571-71FA-E557-19FBD2255707}|Staff-Management-System\\Staff-Management-System.csproj|solutionrelative:staff-management-system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3A85EA-5571-71FA-E557-19FBD2255707}|Staff-Management-System\\Staff-Management-System.csproj|c:\\users\\rayma\\desktop\\staff-management-system\\staff-management-system\\staff-management-system\\models\\staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3A85EA-5571-71FA-E557-19FBD2255707}|Staff-Management-System\\Staff-Management-System.csproj|solutionrelative:staff-management-system\\models\\staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3A85EA-5571-71FA-E557-19FBD2255707}|Staff-Management-System\\Staff-Management-System.csproj|c:\\users\\rayma\\desktop\\staff-management-system\\staff-management-system\\staff-management-system\\models\\systemadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3A85EA-5571-71FA-E557-19FBD2255707}|Staff-Management-System\\Staff-Management-System.csproj|solutionrelative:staff-management-system\\models\\systemadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "C:\\Users\\rayma\\Desktop\\Staff-Management-System\\Staff-Management-System\\Staff-Management-System\\Services\\StaffService.cs",
+              "RelativeDocumentMoniker": "Staff-Management-System\\Services\\StaffService.cs",
+              "ToolTip": "C:\\Users\\rayma\\Desktop\\Staff-Management-System\\Staff-Management-System\\Staff-Management-System\\Services\\StaffService.cs",
+              "RelativeToolTip": "Staff-Management-System\\Services\\StaffService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T11:52:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\rayma\\Desktop\\Staff-Management-System\\Staff-Management-System\\Staff-Management-System\\Models\\SystemAdmin.cs",
+              "RelativeDocumentMoniker": "Staff-Management-System\\Models\\SystemAdmin.cs",
+              "ToolTip": "C:\\Users\\rayma\\Desktop\\Staff-Management-System\\Staff-Management-System\\Staff-Management-System\\Models\\SystemAdmin.cs",
+              "RelativeToolTip": "Staff-Management-System\\Models\\SystemAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T11:49:00.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffMember.cs",
+              "DocumentMoniker": "C:\\Users\\rayma\\Desktop\\Staff-Management-System\\Staff-Management-System\\Staff-Management-System\\Models\\StaffMember.cs",
+              "RelativeDocumentMoniker": "Staff-Management-System\\Models\\StaffMember.cs",
+              "ToolTip": "C:\\Users\\rayma\\Desktop\\Staff-Management-System\\Staff-Management-System\\Staff-Management-System\\Models\\StaffMember.cs",
+              "RelativeToolTip": "Staff-Management-System\\Models\\StaffMember.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T11:48:31.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
